@@ -140,7 +140,3 @@
 - `nmap --max-retries <count> <target>`  
   Limit the number of retries for a given scan.
 
-## Conclusion
-
-This cheatsheet covers the essential Nmap commands useful for penetration testing. You can customize your scans based on the target and your specific needs.
-
