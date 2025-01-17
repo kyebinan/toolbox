@@ -18,6 +18,9 @@
 - `nmap -T4 <target>`  
   Set timing template to 4 (faster scan).
 
+- `nmap -C <target>`  
+This option in Nmap enables the use of "Canonical" scripts.  
+
 ## Port Scanning
 
 - `nmap -p <ports> <target>`  
